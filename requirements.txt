@@ -6,3 +6,4 @@ openai-whisper
 transformers
 google-api-python-client
 streamlit
+yt-dlp
