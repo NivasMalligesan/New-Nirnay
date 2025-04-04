@@ -7,3 +7,12 @@ transformers
 google-api-python-client
 streamlit
 yt-dlp
+pydub
+torch
+torchaudio
+numpy
+scipy
+nltk
+spacy
+python-dotenv
+requests
