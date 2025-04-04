@@ -5,5 +5,4 @@ ffmpeg
 openai-whisper
 transformers
 google-api-python-client
-queue
 streamlit
